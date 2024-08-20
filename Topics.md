@@ -18,7 +18,7 @@
 - **Matrices**: Matrix Traversal is essential for navigating grids, often used in pathfinding and image processing.
 
 
-Yes, if you learn the basic operations on data structures and understand the key algorithms listed, you will have a solid foundation in Data Structures and Algorithms (DSA). Here's why:
+solid foundation in Data Structures and Algorithms (DSA). :
 
 ### 1. **Basic Operations on Data Structures:**
    - **Arrays/Strings**: Insertion, deletion, traversal, searching, sorting.
