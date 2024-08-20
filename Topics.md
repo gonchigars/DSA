@@ -1,6 +1,3 @@
-Here's the table and summary in Markdown format:
-
-```markdown
 | Data Structure | Comment | Commonly Associated Algorithms | Simple Explanation | Real-World Use Case |
 |----------------|---------|--------------------------------|---------------------|---------------------|
 | Arrays and Strings | Basic structures used in almost all programming tasks. | Prefix Sum, Two Pointer, Sliding Window, Modified Binary Search | **Prefix Sum:** Precomputes the sum of elements to answer range queries quickly. <br> **Two Pointer:** Uses two pointers to scan through data from different directions to solve problems efficiently. <br> **Sliding Window:** Maintains a moving window of elements to solve problems involving subarrays or substrings. <br> **Modified Binary Search:** A variation of binary search used in more complex scenarios, like finding elements in a rotated array. | **Arrays:** Used in storing lists of items like shopping carts or student records. **Strings:** Used in text processing, such as searching for a word in a document. |
@@ -19,6 +16,3 @@ Here's the table and summary in Markdown format:
 - **Trees and Graphs**: DFS, BFS, Backtracking, and Dynamic Programming are key algorithms for traversing trees and graphs and solving complex problems involving hierarchies and networks.
 - **Heaps**: Top 'k' Elements and Quick Select are efficient algorithms that use heaps to find specific elements in a dataset.
 - **Matrices**: Matrix Traversal is essential for navigating grids, often used in pathfinding and image processing.
-```
-
-This Markdown format preserves the structure and content of the original table and summary, making it easy to render in Markdown-compatible environments.
