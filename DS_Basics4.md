@@ -308,4 +308,3 @@ Now, let's practice! Try these exercises:
 
 Remember, the key to understanding queues is to always think about the FIFO principle. Whenever you're dealing with a problem that involves processing items in the order they arrived or managing a sequence of elements where the oldest ones are processed first, consider using a queue!
 
-Would you like me to explain any part of this in more detail or provide solutions to the practice exercises?
