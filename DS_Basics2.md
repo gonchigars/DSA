@@ -178,7 +178,7 @@ public class LinkedListDemo {
 
 ```
 
-Now, let's break down the concept of Linked Lists using the Feynman Technique:
+
 
 1. What is a Linked List?
 
