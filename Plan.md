@@ -1,96 +1,254 @@
-### **21-Day Learning Plan:**
+### **Week 1: Arrays and Strings**
 
-#### **Week 1: Data Structures and Basic Operations**
-1. **Day 1: Arrays and Strings**
-   - **Learn:** Basic operations like insertion, deletion, traversal, and searching.
-   - **Practice:** Implement and manipulate arrays and strings. Explore string manipulation functions.
+#### **Day 1: Introduction to Arrays**
+- **Topics:** Basic operations (insertion, deletion, traversal)
+- **Practice Problems:**
+  - [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
+  - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 
-2. **Day 2: Linked Lists**
-   - **Learn:** Types of linked lists (singly, doubly, circular), insertion, deletion, traversal, and reversal.
-   - **Practice:** Implement different types of linked lists and perform basic operations.
+#### **Day 2: Advanced Array Techniques**
+- **Topics:** Prefix Sum, Two Pointer Technique
+- **Practice Problems:**
+  - [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
+  - [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
 
-3. **Day 3: Stacks**
-   - **Learn:** LIFO structure, push, pop, peek operations.
-   - **Practice:** Implement a stack using an array or linked list and solve basic stack problems like balancing parentheses.
+#### **Day 3: Sliding Window Technique**
+- **Topics:** Introduction to Sliding Window
+- **Practice Problems:**
+  - [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem)
+  - [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 
-4. **Day 4: Queues**
-   - **Learn:** FIFO structure, enqueue, dequeue, front, rear operations.
-   - **Practice:** Implement a queue using an array or linked list. Explore circular queues.
+#### **Day 4: Strings and Basic String Operations**
+- **Topics:** String manipulation, concatenation, and comparison
+- **Practice Problems:**
+  - [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)
+  - [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
 
-5. **Day 5: Hashmaps and Sets**
-   - **Learn:** Hashing, handling collisions, basic operations like insertion, deletion, and searching.
-   - **Practice:** Implement a basic hashmap and set. Solve problems involving quick lookups and uniqueness.
+#### **Day 5: Modified Binary Search**
+- **Topics:** Binary Search basics and modifications
+- **Practice Problems:**
+  - [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+  - [Pairs](https://www.hackerrank.com/challenges/pairs/problem)
 
-6. **Day 6: Trees (Binary Trees)**
-   - **Learn:** Basic tree structure, traversal methods (in-order, pre-order, post-order), insertion, deletion.
-   - **Practice:** Implement a binary tree and perform different traversals. Solve basic tree problems.
+### **Week 2: Hashmaps and Sets**
 
-7. **Day 7: Graphs**
-   - **Learn:** Basic concepts (nodes, edges), representation (adjacency matrix/list), traversal methods (DFS, BFS).
-   - **Practice:** Implement a graph using adjacency list and perform DFS and BFS traversals.
+#### **Day 1: Introduction to Hashmaps**
+- **Topics:** Basic operations, collision handling
+- **Practice Problems:**
+  - [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
+  - [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem)
 
-#### **Week 2: Advanced Data Structures and Operations**
-8. **Day 8: Binary Search Trees (BSTs)**
-   - **Learn:** Properties of BSTs, insertion, deletion, searching, traversal.
-   - **Practice:** Implement a BST and solve problems like finding the minimum/maximum element.
+#### **Day 2: Sets and Uniqueness Checking**
+- **Topics:** Basic set operations
+- **Practice Problems:**
+  - [Pairs](https://www.hackerrank.com/challenges/pairs/problem)
+  - [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem)
 
-9. **Day 9: Heaps**
-   - **Learn:** Min-heap and max-heap properties, insertion, deletion (heapify), extract max/min.
-   - **Practice:** Implement a heap and perform heap operations. Solve problems like finding the k-th largest element.
+#### **Day 3: Top 'k' Elements**
+- **Topics:** Using hashmaps and sets to find top k elements
+- **Practice Problems:**
+  - [No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set/problem)
+  - [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
 
-10. **Day 10: Tries (Prefix Trees)**
-    - **Learn:** Trie structure, insertion, searching, and deletion of strings.
-    - **Practice:** Implement a trie and solve problems like autocomplete and word search.
+#### **Day 4: Overlapping Intervals**
+- **Topics:** Interval merging and processing
+- **Practice Problems:**
+  - [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
+  - [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)
 
-11. **Day 11: Hash Tables**
-    - **Learn:** Advanced hashing techniques, handling collisions, dynamic resizing.
-    - **Practice:** Implement a hash table with custom hash functions. Solve problems involving hash-based lookups.
+#### **Day 5: Practice and Review**
+- **Practice Problems:**
+  - Mixed problems from arrays, strings, hashmaps, and sets.
+  - [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+  - [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 
-12. **Day 12: Graph Algorithms (Advanced)**
-    - **Learn:** Graph traversal algorithms (DFS, BFS), shortest path algorithms (Dijkstra’s, Bellman-Ford).
-    - **Practice:** Solve problems like finding the shortest path in a graph and detecting cycles.
+### **Week 3: Linked Lists**
 
-13. **Day 13: Segment Trees/Fenwick Trees**
-    - **Learn:** Segment trees and Fenwick trees for range queries and updates.
-    - **Practice:** Implement a segment tree and solve range query problems.
+#### **Day 1: Introduction to Linked Lists**
+- **Topics:** Singly Linked List operations
+- **Practice Problems:**
+  - [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
+  - [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
 
-14. **Day 14: Union-Find (Disjoint Set Union)**
-    - **Learn:** Union-Find structure, union by rank, path compression.
-    - **Practice:** Implement Union-Find and solve problems like finding connected components.
+#### **Day 2: Doubly Linked Lists**
+- **Topics:** Doubly Linked List operations
+- **Practice Problems:**
+  - [Insert a Node at a Specific Position in a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
+  - [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)
 
-#### **Week 3: Algorithms**
-15. **Day 15: Prefix Sum**
-    - **Learn:** Precomputing the sum of elements to answer range queries quickly.
-    - **Practice:** Solve array problems using prefix sums, like finding subarray sums.
+#### **Day 3: Fast & Slow Pointer Technique**
+- **Topics:** Applications of fast and slow pointers
+- **Practice Problems:**
+  - [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)
+  - [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)
 
-16. **Day 16: Two Pointer Technique**
-    - **Learn:** Using two pointers to solve problems efficiently by scanning data from different directions.
-    - **Practice:** Solve problems like finding pairs in a sorted array or checking for palindromes.
+#### **Day 4: Linked List In-Place Reversal**
+- **Topics:** Reversal techniques for linked lists
+- **Practice Problems:**
+  - [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)
+  - [Reverse a Sublist](https://www.hackerrank.com/challenges/reverse-a-sublist/problem)
 
-17. **Day 17: Sliding Window**
-    - **Learn:** Maintaining a moving window of elements to solve problems involving subarrays or substrings.
-    - **Practice:** Solve problems like finding the maximum sum subarray of fixed size.
+#### **Day 5: Practice and Review**
+- **Practice Problems:**
+  - Mixed problems on linked lists.
+  - [Delete Duplicate-Value Nodes From a Sorted Linked List](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)
 
-18. **Day 18: Fast & Slow Pointer**
-    - **Learn:** Using two pointers moving at different speeds to detect cycles or find the middle of a list.
-    - **Practice:** Solve linked list problems like cycle detection and finding the middle element.
+### **Week 4: Stacks and Queues**
 
-19. **Day 19: Backtracking**
-    - **Learn:** Recursively trying all possible solutions and backtracking when a solution fails.
-    - **Practice:** Solve problems like generating permutations, combinations, and solving puzzles like Sudoku.
+#### **Day 1: Introduction to Stacks**
+- **Topics:** Stack operations, LIFO principle
+- **Practice Problems:**
+  - [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+  - [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)
 
-20. **Day 20: Dynamic Programming**
-    - **Learn:** Breaking down problems into overlapping subproblems, solving each once, and storing solutions.
-    - **Practice:** Solve classic dynamic programming problems like the knapsack problem, Fibonacci sequence, and longest common subsequence.
+#### **Day 2: Introduction to Queues**
+- **Topics:** Queue operations, FIFO principle
+- **Practice Problems:**
+  - [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+  - [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)
 
-21. **Day 21: Matrix Traversal**
-    - **Learn:** Techniques for navigating a 2D grid, including DFS, BFS, and dynamic programming.
-    - **Practice:** Solve problems like finding paths in a maze, counting islands, and finding the maximum path sum.
+#### **Day 3: Monotonic Stack**
+- **Topics:** Applications of monotonic stacks
+- **Practice Problems:**
+  - [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+  - [Waiter](https://www.hackerrank.com/challenges/waiter/problem)
 
-### **Additional Tips for Success:**
-- **Review Weekly:** At the end of each week, review all the data structures and algorithms you’ve learned to reinforce your understanding.
-- **Practice Daily:** Along with learning, practice solving problems on platforms like LeetCode, HackerRank, or Codeforces.
-- **Use Visual Aids:** Where possible, use visual aids (e.g., diagrams, flowcharts) to understand how data structures and algorithms work.
-- **Discuss with Peers:** Join study groups or forums to discuss problems and solutions with others, which can help deepen your understanding.
+#### **Day 4: Priority Queue**
+- **Topics:** Introduction to priority queues and heaps
+- **Practice Problems:**
+  - [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)
+  - [Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)
 
-By following this 21-day plan, you'll cover a comprehensive range of data structures and algorithms, giving you a strong foundation in DSA. This methodical approach ensures that you not only learn the concepts but also know how to apply them effectively in problem-solving scenarios.
+#### **Day 5: Practice and Review**
+- **Practice Problems:**
+  - Mixed problems on stacks and queues.
+  - [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)
+
+### **Week 5: Trees**
+
+#### **Day 1: Introduction to Trees**
+- **Topics:** Binary Trees, basic operations
+- **Practice Problems:**
+  - [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
+  - [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
+
+#### **Day 2: Binary Search Trees (BST)**
+- **Topics:** BST operations (insertion, deletion, search)
+- **Practice Problems:**
+  - [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)
+  - [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)
+
+#### **Day 3: Depth-First Search (DFS)**
+- **Topics:** DFS traversal
+- **Practice Problems:**
+  - [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)
+  - [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)
+
+#### **Day 4: Breadth-First Search (BFS)**
+- **Topics:** BFS traversal, level order traversal
+- **Practice Problems:**
+  - [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
+  - [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)
+
+#### **Day 5: Practice and Review**
+- **Practice Problems:**
+  - Mixed problems on trees.
+  - [Binary Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
+
+### **Week 6: Graphs**
+
+#### **Day 1:
+
+ Introduction to Graphs**
+- **Topics:** Graph representations (adjacency list, matrix)
+- **Practice Problems:**
+  - [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)
+  - [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
+
+#### **Day 2: Shortest Path Algorithms**
+- **Topics:** Introduction to shortest path algorithms (Dijkstra’s, BFS for unweighted graphs)
+- **Practice Problems:**
+  - [Shortest Reach in a Graph](https://www.hackerrank.com/challenges/bfsshortreach/problem)
+  - [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem)
+
+#### **Day 3: Topological Sorting**
+- **Topics:** Topological sort in directed acyclic graphs (DAGs)
+- **Practice Problems:**
+  - [Topological Sorting](https://www.hackerrank.com/challenges/torque-and-toposort/problem)
+  - [Alien Dictionary](https://www.hackerrank.com/challenges/alien-dictionary/problem)
+
+#### **Day 4: Connected Components**
+- **Topics:** Finding connected components in graphs
+- **Practice Problems:**
+  - [Connected Components in a Graph](https://www.hackerrank.com/challenges/connected-components-in-a-graph/problem)
+  - [Counting Components](https://www.hackerrank.com/challenges/counting-components/problem)
+
+#### **Day 5: Practice and Review**
+- **Practice Problems:**
+  - Mixed problems on graphs.
+  - [Matrix](https://www.hackerrank.com/challenges/matrix/problem)
+
+### **Week 7: Dynamic Programming (DP)**
+
+#### **Day 1: Introduction to Dynamic Programming**
+- **Topics:** Basic concepts (memoization, tabulation)
+- **Practice Problems:**
+  - [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem)
+  - [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)
+
+#### **Day 2: 1D Dynamic Programming**
+- **Topics:** 1D DP problems
+- **Practice Problems:**
+  - [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem)
+  - [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem)
+
+#### **Day 3: 2D Dynamic Programming**
+- **Topics:** 2D DP problems
+- **Practice Problems:**
+  - [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem)
+  - [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)
+
+#### **Day 4: Knapsack Problem**
+- **Topics:** 0/1 knapsack and unbounded knapsack
+- **Practice Problems:**
+  - [Knapsack](https://www.hackerrank.com/challenges/knapsack/problem)
+  - [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
+
+#### **Day 5: Practice and Review**
+- **Practice Problems:**
+  - Mixed problems on dynamic programming.
+  - [Candies](https://www.hackerrank.com/challenges/candies/problem)
+
+### **Week 8: Integration and Mastery**
+
+#### **Day 1: Mixed Problem Solving**
+- **Practice Problems:**
+  - Mixed problems integrating concepts from arrays, strings, and hashmaps.
+  - [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+  - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+
+#### **Day 2: Mixed Problem Solving**
+- **Practice Problems:**
+  - Mixed problems integrating concepts from linked lists, stacks, and queues.
+  - [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+  - [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+
+#### **Day 3: Mixed Problem Solving**
+- **Practice Problems:**
+  - Mixed problems integrating concepts from trees and graphs.
+  - [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
+  - [Matrix](https://www.hackerrank.com/challenges/matrix/problem)
+
+#### **Day 4: Mock Interview Session**
+- **Practice Problems:**
+  - Simulate a coding interview with 3-4 mixed problems.
+  - [Problem 1](https://www.hackerrank.com/challenges/problem-solving/problem)
+  - [Problem 2](https://www.hackerrank.com/challenges/problem-solving/problem)
+
+#### **Day 5: Final Review and Reflection**
+- **Practice Problems:**
+  - Revisit challenging problems from earlier weeks.
+  - [Custom Problem 1](https://www.hackerrank.com/challenges/problem-solving/problem)
+  - [Custom Problem 2](https://www.hackerrank.com/challenges/problem-solving/problem)
+
+---
