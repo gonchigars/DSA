@@ -1,0 +1,90 @@
+Arrays:
+1. RAM
+2. Static Arrays
+3. Dynamic Arrays
+4. Stacks
+
+Linked Lists:
+5. Singly Linked Lists
+6. Doubly Linked Lists
+7. Queues
+
+Recursion:
+8. Factorial
+9. Fibonacci Sequence
+
+Sorting:
+10. Insertion Sort
+11. Merge Sort
+12. Quick Sort
+13. Bucket Sort
+
+Binary Search:
+14. Search Array
+15. Search Range
+
+Trees:
+16. Binary Tree
+17. Binary Search Tree
+18. BST Insert and Remove
+19. Depth-First Search
+20. Breadth-First Search
+21. BST Sets and Maps
+
+Backtracking:
+22. Tree Maze
+
+Heap / Priority Queue:
+23. Heap Properties
+24. Push and Pop
+25. Heapify
+
+Hashing:
+26. Hash Usage
+27. Hash Implementation
+
+Graphs:
+28. Intro to Graphs
+29. Matrix DFS
+30. Matrix BFS
+31. Adjacency List
+
+Dynamic Programming:
+32. 1 Dimension DP
+33. 2 Dimension DP
+
+Bit Manipulation:
+34. Bit Operations
+
+Arrays:
+0. Kadane's Algorithm
+1. Sliding Window Fixed Size
+2. Sliding Window Variable Size
+3. Two Pointers
+4. Prefix Sums
+
+Linked Lists:
+5. Fast and Slow Pointers
+
+Trees:
+6. Trie
+7. Union-Find
+8. Segment Tree
+9. Iterative DFS
+
+Backtracking:
+11. Subsets
+12. Combinations
+13. Permutations
+
+Graphs:
+14. Dijkstra's
+15. Prim's
+16. Kruskal's
+17. Topological Sort
+
+Dynamic Programming:
+18. 0/1 Knapsack
+19. Unbounded Knapsack
+20. LCS (Likely "Longest Common Subsequence")
+21. Palindromes
