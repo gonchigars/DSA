@@ -305,9 +305,7 @@
 | 47  | 5    | 5   | [Binary Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) | Medium |
 | 48  | 6    | 1   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | Medium |
 | 49  | 6    | 1   | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | Medium |
-| 50  | 6    | 2   | [Shortest Reach in a Graph](https://www.hackerrank.com/challenges/bfsshortreach/problem) | Medium
-
- |
+| 50  | 6    | 2   | [Shortest Reach in a Graph](https://www.hackerrank.com/challenges/bfsshortreach/problem) | Medium |
 | 51  | 6    | 2   | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem) | Medium |
 | 52  | 6    | 3   | [Topological Sorting](https://www.hackerrank.com/challenges/torque-and-toposort/problem) | Medium |
 | 53  | 6    | 3   | [Alien Dictionary](https://www.hackerrank.com/challenges/alien-dictionary/problem) | Medium |
