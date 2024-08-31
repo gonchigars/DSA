@@ -333,3 +333,44 @@
 | 75  | 8    | 5   | [Custom Problem 4](https://www.hackerrank.com/challenges/problem-solving/problem) | Varies |
 
 ---
+# Weekly Projects Overview
+
+## Week 1: Text Analysis Tool
+- **Main Concepts**: Arrays, Strings
+- **Key Features**: Word frequency count, pattern matching, search functionality
+- **Learning Outcomes**: String manipulation, array operations, basic algorithms
+
+## Week 2: Social Media Analytics Dashboard
+- **Main Concepts**: Hashmaps, Sets
+- **Key Features**: Unique user tracking, trending hashtags, user mentions
+- **Learning Outcomes**: Efficient data lookup, frequency counting, duplicate detection
+
+## Week 3: Music Playlist Manager
+- **Main Concepts**: Linked Lists
+- **Key Features**: Dynamic playlist management, recently played list, basic recommendation
+- **Learning Outcomes**: List operations, memory management, circular buffers
+
+## Week 4: Task Management System
+- **Main Concepts**: Stacks, Queues
+- **Key Features**: Undo/redo functionality, priority tasks, nested tasks
+- **Learning Outcomes**: LIFO/FIFO operations, state management, priority queues
+
+## Week 5: File System Navigator
+- **Main Concepts**: Trees
+- **Key Features**: Folder structure display, search, size calculation
+- **Learning Outcomes**: Tree traversal, recursive algorithms, hierarchical data structures
+
+## Week 6: Public Transportation Route Planner
+- **Main Concepts**: Graphs
+- **Key Features**: Shortest path finding, route calculation, handling disruptions
+- **Learning Outcomes**: Graph traversal, shortest path algorithms, real-time updates
+
+## Week 7: Stock Trading Simulator
+- **Main Concepts**: Dynamic Programming
+- **Key Features**: Trading strategy optimization, profit maximization
+- **Learning Outcomes**: Optimization problems, memoization, tabulation
+
+## Week 8: E-commerce Platform
+- **Main Concepts**: Integration of All Previous Concepts
+- **Key Features**: Product catalog, shopping cart, order processing, recommendations
+- **Learning Outcomes**: System design, algorithm selection, data structure integration
